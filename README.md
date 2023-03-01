@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be a basic website that displays recipes, I will use the what I learned from Project Odin to build this website using text, lists, links and images. Using Git to version control the project.
